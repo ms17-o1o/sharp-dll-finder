@@ -8,13 +8,16 @@
 DLL hijacking is one of the offensive techniques that can be utilized to achieve persistence or possibly privilege escalation once initial access is
 obtained. The aim of this project is to automate the process of searching for possible DLL hijacks opportunities on a Windows environment based
 on a curated DLL list provided by [Hijack Libs](https://hijacklibs.net/?s=09).
+
 ## Types of DLL Hijacking Techniques:
 **DLL Sideloading**. By copying (and optionally renaming) a vulnerable application to a user-writeable folder, alongside a malicious dll file,
 arbitrary code can be executed through the legitimate application. See also MITRE ATT&CK® technique [T1574.002: Hijack Execution Flow:
 DLL Side-Loading](https://attack.mitre.org/techniques/T1574/002/).
+
 **DLL Environment Variable Hijacking**. By changing the environment variable (e.g. %SYSTEMROOT%) to an attacker-controlled directory, it is
 possible to trick a vulnerable application into loading a malicious dll from the attacker-controlled location. See also MITRE ATT&CK®
 technique [T1574: Hijack Execution Flow](https://attack.mitre.org/techniques/T1574/).
+
 **DLL Search Order Hijacking**. DLLs specified by an application without a path are searched for in fixed locations in a specific order. By putting
 a malicious dll file in a location that is searched in before the actual DLL, the legitimate application will execute arbitrary code upon normal
 execution.. See also MITRE ATT&CK® technique [T1574.001: Hijack Execution Flow: DLL Search Order Hijacking](https://attack.mitre.org/techniques/T1574/001/).
