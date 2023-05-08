@@ -1,0 +1,13 @@
+C:\Users\khsea\source\repos\sharp_dll_finder\sharp_dll_finder\bin\Debug\net6.0\sharp_dll_finder.exe
+C:\Users\khsea\source\repos\sharp_dll_finder\sharp_dll_finder\bin\Debug\net6.0\sharp_dll_finder.deps.json
+C:\Users\khsea\source\repos\sharp_dll_finder\sharp_dll_finder\bin\Debug\net6.0\sharp_dll_finder.runtimeconfig.json
+C:\Users\khsea\source\repos\sharp_dll_finder\sharp_dll_finder\bin\Debug\net6.0\sharp_dll_finder.dll
+C:\Users\khsea\source\repos\sharp_dll_finder\sharp_dll_finder\obj\Debug\net6.0\sharp_dll_finder.csproj.AssemblyReference.cache
+C:\Users\khsea\source\repos\sharp_dll_finder\sharp_dll_finder\obj\Debug\net6.0\sharp_dll_finder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khsea\source\repos\sharp_dll_finder\sharp_dll_finder\obj\Debug\net6.0\sharp_dll_finder.AssemblyInfoInputs.cache
+C:\Users\khsea\source\repos\sharp_dll_finder\sharp_dll_finder\obj\Debug\net6.0\sharp_dll_finder.AssemblyInfo.cs
+C:\Users\khsea\source\repos\sharp_dll_finder\sharp_dll_finder\obj\Debug\net6.0\sharp_dll_finder.csproj.CoreCompileInputs.cache
+C:\Users\khsea\source\repos\sharp_dll_finder\sharp_dll_finder\obj\Debug\net6.0\sharp_dll_finder.dll
+C:\Users\khsea\source\repos\sharp_dll_finder\sharp_dll_finder\obj\Debug\net6.0\refint\sharp_dll_finder.dll
+C:\Users\khsea\source\repos\sharp_dll_finder\sharp_dll_finder\obj\Debug\net6.0\sharp_dll_finder.genruntimeconfig.cache
+C:\Users\khsea\source\repos\sharp_dll_finder\sharp_dll_finder\obj\Debug\net6.0\ref\sharp_dll_finder.dll
